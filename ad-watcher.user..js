@@ -8,8 +8,8 @@
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=sfgame.net
 // @grant        none
 // @homepageURL  https://github.com/CupCaker/Shakes-And-Fidget-Ad-Watcher/
-// @downloadURL  https://github.com/CupCaker/Shakes-And-Fidget-Ad-Watcher/raw/master/src.js
-// @updateURL    https://github.com/CupCaker/Shakes-And-Fidget-Ad-Watcher/raw/master/src.js
+// @downloadURL  https://github.com/CupCaker/Shakes-And-Fidget-Ad-Watcher/raw/master/ad-watcher.user.js
+// @updateURL    https://github.com/CupCaker/Shakes-And-Fidget-Ad-Watcher/raw/master/ad-watcher.user.js
 // ==/UserScript==
 
 /*
