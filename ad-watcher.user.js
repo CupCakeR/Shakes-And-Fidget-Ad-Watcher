@@ -1,9 +1,10 @@
 // ==UserScript==
 // @name         Ad watcher
 // @namespace    https://github.com/CupCaker
-// @version      0.1
+// @version      0.2
 // @description  Automatically watches ads to receive coins
 // @author       CupCaker
+// @license      CC BY 4.0
 // @match        https://*.sfgame.net/
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=sfgame.net
 // @grant        none
