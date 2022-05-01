@@ -1,12 +1,14 @@
 // ==UserScript==
 // @name         Ad watcher
-// @namespace    http://tampermonkey.net/
-// @version      1.0
+// @namespace    https://github.com/CupCakeR
+// @version      0.1
 // @description  Automatically watches ads to receive coins
 // @author       CupCakeR
 // @match        https://*.sfgame.net/
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=sfgame.net
 // @grant        none
+// @homepageURL  https://github.com/CupCakeR/Shakes-And-Fidget-Ad-Watcher/
+// @updateURL    https://github.com/CupCakeR/Shakes-And-Fidget-Ad-Watcher/raw/master.src.js
 // ==/UserScript==
 
 /*
